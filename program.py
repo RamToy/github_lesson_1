@@ -1,2 +1,2 @@
-#! /usr/bin/python
-print('My first Git program!!!')
+#Autor is Artem Veselov
+print('Hello Python!')
