@@ -1,2 +1,2 @@
-#! /usr/bin/python
-print('My first Git program!!!')
+print('Hello Python!')
+# 2017 (c) AV
